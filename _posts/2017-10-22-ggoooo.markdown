@@ -1,7 +1,0 @@
----
-layout: post
-title:  "ggoooo"
-date:   2017-10-22 16:22:18 +0800
-categories: jekyll update
----
-me diyyyy
